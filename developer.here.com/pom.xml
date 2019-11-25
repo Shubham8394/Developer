@@ -67,5 +67,10 @@
 			<artifactId>webdrivermanager</artifactId>
 			<version>3.3.0</version>
 		</dependency>
+		<dependency>
+			<groupId>com.paulhammant</groupId>
+			<artifactId>ngwebdriver</artifactId>
+			<version>1.0</version>
+		</dependency>
 	</dependencies>
 </project>
